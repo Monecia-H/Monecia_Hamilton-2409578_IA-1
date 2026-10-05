@@ -1,1 +1,14 @@
+Colour palette: Dark theme consisting of:- Background: #0F0F0F — RGB (15, 15, 15)
+- Surface: #1A1A1A — RGB (26, 26, 26)
+- Light surface: #242424 — RGB (36, 36, 36)
+- Text: #F5F5F5 — RGB (245, 245, 245)
+- Muted text: #B8B8B8 — RGB (184, 184, 184)
+- Accent purple: #8B5CF6 — RGB (139, 92, 246)
+- Hover purple: #A78BFA — RGB (167, 139, 250)
+- Border: #333333 — RGB (51, 51, 51)
 
+Font-family: Arial, sans-serif.
+Font weight: Normal for general text; bold for navigation and external links.
+Images: Profile image is 250px wide and ID image is 300px wide; images are responsive.
+Icons: None used; navigation uses text links.
+Responsive design: The layout adapts to screens below 600px.
